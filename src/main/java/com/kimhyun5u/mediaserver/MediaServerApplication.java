@@ -1,13 +1,13 @@
-package com.kimhyun5u.hls;
+package com.kimhyun5u.mediaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HlsApplication {
+public class MediaServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HlsApplication.class, args);
+		SpringApplication.run(MediaServerApplication.class, args);
 	}
 
 }

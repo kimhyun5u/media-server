@@ -1,4 +1,4 @@
-package com.kimhyun5u.hls.service;
+package com.kimhyun5u.mediaserver.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

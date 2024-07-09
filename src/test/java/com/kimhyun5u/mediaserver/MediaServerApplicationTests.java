@@ -1,10 +1,10 @@
-package com.kimhyun5u.hls;
+package com.kimhyun5u.mediaserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HlsApplicationTests {
+class MediaServerApplicationTests {
 
 	@Test
 	void contextLoads() {

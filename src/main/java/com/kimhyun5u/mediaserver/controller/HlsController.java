@@ -1,4 +1,4 @@
-package com.kimhyun5u.hls.controller;
+package com.kimhyun5u.mediaserver.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

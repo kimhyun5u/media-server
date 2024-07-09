@@ -1,6 +1,6 @@
-package com.kimhyun5u.hls.controller;
+package com.kimhyun5u.mediaserver.controller;
 
-import com.kimhyun5u.hls.service.Mp4ToHlsConverter;
+import com.kimhyun5u.mediaserver.service.Mp4ToHlsConverter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.ResponseEntity;

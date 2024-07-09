@@ -1,4 +1,4 @@
-package com.kimhyun5u.hls.config;
+package com.kimhyun5u.mediaserver.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
